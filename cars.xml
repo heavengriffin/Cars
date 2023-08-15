@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<cars>
+    <car id="1">
+        <manufacturer>Audi</manufacturer>
+        <model>Q3</model>
+        <production-year>2011</production-year>
+        <horsepower>150</horsepower>
+        <consumption type="fuel">7.6</consumption>
+        <price>36430</price>
+    </car>
+    <car id="2">
+        <manufacturer>Chevrolet</manufacturer>
+        <model>Spark</model>
+        <production-year>2013</production-year>
+        <horsepower>68</horsepower>
+        <consumption>6.6</consumption>
+        <price>9995</price>
+    </car>
+    <car id="3">
+        <manufacturer>Aston Martin</manufacturer>
+        <model>DB11</model>
+        <production-year>2013</production-year>
+        <horsepower>510</horsepower>
+        <consumption type="fuel">13.5</consumption>
+        <price>262908</price>
+    </car>
+    <car id="4">
+        <manufacturer>Volkswagen</manufacturer>
+        <model>E-Golf</model>
+        <production-year>2017</production-year>
+        <horsepower>136</horsepower>
+        <consumption type="electric">0</consumption>
+        <price>39250</price>
+    </car>
+    <car id="5">
+        <manufacturer>Kia</manufacturer>
+        <model>E-Niro</model>
+        <production-year>2019</production-year>
+        <horsepower>204</horsepower>
+        <consumption type="electric">0</consumption>
+        <price>43970</price>
+    </car>
+    <car id="6">
+        <manufacturer>Mazda</manufacturer>
+        <model>MX-30</model>
+        <production-year>2020</production-year>
+        <horsepower>145</horsepower>
+        <consumption type="electric">0</consumption>
+        <price>43970</price>
+    </car>
+    <car id="7">
+        <manufacturer>Mazda</manufacturer>
+        <model>MX-5 Roadster Coupe</model>
+        <production-year>2013</production-year>
+        <horsepower>160</horsepower>
+        <consumption type="fuel">11.1</consumption>
+        <price>40990</price>
+    </car>
+    <car id="8">
+        <manufacturer>BMW</manufacturer>
+        <model>X2 SDrive20i</model>
+        <production-year>2018</production-year>
+        <horsepower>192</horsepower>
+        <consumption type="fuel">6.8</consumption>
+        <price>47394</price>
+    </car>
+    <car id="9">
+        <manufacturer>Volkswagen</manufacturer>
+        <model>T-Roc</model>
+        <production-year>2017</production-year>
+        <horsepower>116</horsepower>
+        <consumption type="fuel">5.8</consumption>
+        <price>29550</price>
+    </car>
+    <car id="10">
+        <manufacturer>Toyota</manufacturer>
+        <model>Corolla Sedan</model>
+        <production-year>2019</production-year>
+        <horsepower>122</horsepower>
+        <consumption type="hybrid">3.1</consumption>
+        <price>29860</price>
+    </car>
+    <car id="11">
+        <manufacturer>Dacia</manufacturer>
+        <model>Sandero</model>
+        <production-year>2016</production-year>
+        <horsepower>90</horsepower>
+        <consumption type="fuel">5.8</consumption>
+        <price>14290</price>
+    </car>
+    <car id="12">
+        <manufacturer>Aston Martin</manufacturer>
+        <model>V12 Vantage Roadster</model>
+        <production-year>2012</production-year>
+        <horsepower>517</horsepower>
+        <consumption type="fuel">24.3</consumption>
+        <price>304951</price>
+    </car>
+    <car id="13">
+        <manufacturer>Fiat</manufacturer>
+        <model>500e</model>
+        <production-year>2020</production-year>
+        <horsepower>95</horsepower>
+        <consumption type="electric">0</consumption>
+        <price>23900</price>
+    </car>
+    <car id="14">
+        <manufacturer>Toyota</manufacturer>
+        <model>GT86</model>
+        <production-year>2012</production-year>
+        <horsepower>200</horsepower>
+        <consumption type="fuel">11.5</consumption>
+        <price>57570</price>
+    </car>
+    <car id="15">
+        <manufacturer>Ford</manufacturer>
+        <model>Grand C-MAX</model>
+        <production-year>2015</production-year>
+        <horsepower>125</horsepower>
+        <consumption type="fuel">6.4</consumption>
+        <price>27695</price>
+    </car>
+</cars>
